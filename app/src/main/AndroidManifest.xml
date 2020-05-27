@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".sewa"></activity>
+        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".sewa" />
         <activity android:name=".beli" />
         <activity android:name=".sebuahseni" />
         <activity android:name=".power" />
@@ -18,8 +19,7 @@
         <activity android:name=".koalakumal" />
         <activity android:name=".dilan1991" />
         <activity android:name=".dilan1990" />
-        <activity android:name=".test" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
