@@ -14,7 +14,7 @@
         <activity android:name=".beli" />
         <activity android:name=".sebuahseni" />
         <activity android:name=".power" />
-        <activity android:name=".maxhavelaar" />
+        <activity android:name=".maxhavelaar" /> 
         <activity android:name=".laskarpelangi" />
         <activity android:name=".koalakumal" />
         <activity android:name=".dilan1991" />
